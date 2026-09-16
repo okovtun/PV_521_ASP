@@ -26,6 +26,7 @@ namespace Academy.Models
 		public DateOnly? start_date { get; set; }
 
 		//			Navigation properties:
-		public Direction Direction { get; set; }
+		public Direction Direction { get; set; } = default!;
+		ICollection<Student> Students { get; set; } = default!;
 	}
 }
