@@ -21,9 +21,11 @@ namespace Academy.Models
 		public DateOnly birth_date { get; set; }
 
 		[EmailAddress]
+		//[Required(AllowEmptyStrings = true)]
 		public string? email { get; set; }
 
 		[Phone]
+		//[Required(AllowEmptyStrings = true)]
 		public string? phone { get; set; }
 
 		[Column("photo", TypeName = "IMAGE")]
