@@ -20,11 +20,11 @@ namespace Academy.Models
 		[DataType(DataType.Date)]
 		public DateOnly birth_date { get; set; }
 
-		[EmailAddress]
+		//[EmailAddress]
 		//[Required(AllowEmptyStrings = true)]
 		public string? email { get; set; }
 
-		[Phone]
+		//[Phone]
 		//[Required(AllowEmptyStrings = true)]
 		public string? phone { get; set; }
 
