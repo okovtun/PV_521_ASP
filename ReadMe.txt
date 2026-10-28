@@ -4,7 +4,29 @@ https://www.youtube.com/playlist?list=PLMSRbmYwA6y8
 Hosting:
 0. https://www.monsterasp.net/
 
+//////////////////////////////////////////////////////////////////////
+///////////////					React					//////////////
+//////////////////////////////////////////////////////////////////////
+https://www.youtube.com/playlist?list=PLcbUXVKcz0qw
+
+Deployment:
+https://create-react-app.dev/docs/deployment/#:~:text=For%20more%20information%20see%20Firebase%20Hosting.
+
 TODO:
+1. Залить ReactMovies на GitHub;
+2. Залить ReactMovies на GitHub-pages;
+
+DONE:
+1. Разрулить ситуацию с постами;
+
+DONE:
+1. Залить первый проект на GitHub;
+
+//////////////////////////////////////////////////////////////////////
+///////////////					ASP.NET					//////////////
+//////////////////////////////////////////////////////////////////////
+
+DONE:
 1. Добавить выпадающий стписок на страницу 'Course/Edit';
 2. Отобразить Department на странице 'Details';
 
